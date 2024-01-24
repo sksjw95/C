@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 #define MAX_COUNT 5
 typedef char NAME_TYPE[14];
 
@@ -75,4 +75,4 @@ void main() {
 		}
 	
 	}
-}
+}*/

@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #include <malloc.h>
 void main() {
 	unsigned char* p_limit_table;
@@ -33,4 +33,4 @@ void main() {
 	}
 	free(p);
 	free(p_limit_table);
-}
+}*/

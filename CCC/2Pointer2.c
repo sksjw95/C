@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*include <stdio.h>
 void main() {
 	short data = 3;
 	short* p = &data;
@@ -10,4 +10,4 @@ void main() {
 	**pp = 5;
 	printf("[Use **p ] data : %d\n", data);
 
-}
+}*/

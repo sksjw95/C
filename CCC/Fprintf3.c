@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 int main() {
 	char temp[64];
 	FILE* p_file = fopen("C:\\SJW\\titi.txt", "rt");
@@ -10,4 +10,4 @@ int main() {
 		fclose(p_file);
 	}
 	return 0;
-}
+}*/

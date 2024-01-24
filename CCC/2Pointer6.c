@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 void main() {
 	unsigned char limit_table[3] = { 4,2,3 };
 	unsigned char count[3][4];
@@ -20,4 +20,4 @@ void main() {
 		}
 		printf("%5.2f\n", (double)sum / limit_table[age]);
 	}
-}
+}*/

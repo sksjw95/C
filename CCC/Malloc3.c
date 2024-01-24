@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #include <malloc.h>
 
 void main() {
@@ -25,4 +25,4 @@ void main() {
 	}
 	printf(" = %d\n", sum);
 	free(p_num_list);
-}
+}*/

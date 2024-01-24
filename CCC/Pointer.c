@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 void main() {
 	char data[5];
 	data[1] = 5;
@@ -13,4 +13,4 @@ void main() {
 	p[0] = 3;
 	printf("%d", p[0]);
 
-}
+}*/

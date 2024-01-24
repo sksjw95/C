@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 int Sum(int a, int b) {
 	return a + b;
 }
@@ -18,4 +18,4 @@ void main() {
 	for (int i = 0; i < 4; i++) {
 		printf("%d %c %d = %d\n", 8, op_table[i], 2, (*p[i])(8, 2));
 	}
-}
+}*/

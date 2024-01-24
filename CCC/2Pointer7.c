@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #include <malloc.h>
 void main() {
 	unsigned char limit_table[3] ;
@@ -26,4 +26,4 @@ void main() {
 		printf("%5.2f\n", (double)sum / limit_table[age]);
 		free(p[age]);
 	}
-}
+}*/

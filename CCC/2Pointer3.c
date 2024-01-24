@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #include <malloc.h>
 void main() {
 	short** pp;
@@ -9,4 +9,4 @@ void main() {
 	printf("**pp : %d\n", **pp);
 	free(*pp);
 	free(pp);
-}
+}*/

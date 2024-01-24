@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 void main() {
 	char data1, data2, data3, data4, data5, i;
@@ -16,4 +16,4 @@ void main() {
 	printf("%p\n", &data3);
 	printf("%p\n", &data4);
 	printf("%p\n", &data5);
-}
+}*/

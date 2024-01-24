@@ -1,4 +1,4 @@
-struct People
+/*struct People
 {
 	char name[12];
 	unsigned short int age;
@@ -23,4 +23,4 @@ typedef struct
 	unsigned short int age;
 	float height;
 	float weight;
-}Person;
+}Person;*/

@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 
 void main() {
 	FILE* p_file = fopen("C:\\SJW\\tipssoft.txt", "wt");
@@ -8,4 +8,4 @@ void main() {
 		fprintf(p_file, "%d\n", data);
 		fclose(p_file);
 	}
-}
+}*/

@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #include <malloc.h>
 
 void main() {
@@ -14,4 +14,4 @@ void main() {
 	else {
 		printf("Memory allocation error!!");
 	}
-}
+}*/

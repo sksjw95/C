@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 void main() {
 	char temp[64];
 	FILE* p_file = fopen("C:\\SJW\\tips.txt", "rt");
@@ -8,4 +8,4 @@ void main() {
 		}
 		fclose(p_file);
 	}
-}
+}*/

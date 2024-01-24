@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 void main() {
 	char data[5] = { 1,2,3,4,5 };
@@ -10,4 +10,4 @@ void main() {
 		result = result + *p++;
 	}
 	printf("%d", result);
-}
+}*/

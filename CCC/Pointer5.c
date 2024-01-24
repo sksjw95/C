@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 
 void main() {
 	char data[3][5];
@@ -7,4 +7,4 @@ void main() {
 	(*p)[1] = 3;
 	(*(p + 1))[2] = 4;
 	(*(p + 2))[4] = 5;
-}
+}*/

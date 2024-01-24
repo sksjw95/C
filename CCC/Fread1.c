@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 void main() {
 	int data;
 	FILE* p_file = fopen("C:\\SJW\\jin.dat", "rb");
@@ -7,4 +7,4 @@ void main() {
 		fclose(p_file);
 		printf("file data : %d(0x%04x)\n", data, data);
 	}
-}
+}*/

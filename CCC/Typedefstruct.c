@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 typedef struct People {
 	char name[12];
 	unsigned short int age;
@@ -11,4 +11,4 @@ void main() {
 
 	data.age = 21;
 	data.height = 178.3;
-}
+}*/

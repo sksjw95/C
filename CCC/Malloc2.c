@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 #define MAX_COUNT 5
 void main() {
 	int num[MAX_COUNT], count = 0, sum = 0, i;
@@ -19,4 +19,4 @@ void main() {
 	}
 	printf(" = %d\n", sum);
 
-}
+}*/

@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 #define MAX_COUNT 5
 typedef struct People {
 	char name[14];
@@ -78,4 +78,4 @@ void main() {
 		}
 
 	}
-}
+}*/

@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 typedef struct People {
 	char name[12];
 	unsigned short int age;
@@ -21,4 +21,4 @@ void main() {
 
 	printf("\n입력한 정보는 다음과 같습니다. \n");
 	printf("%s : %d세,%.1fcm, %fkg\n",data.name,data.age,data.height,data.height,data.weight);
-}
+}*/

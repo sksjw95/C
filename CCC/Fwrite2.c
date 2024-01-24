@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 
 void main() {
 	int data = 100, data_list[5] = { 0,1,2,3,4 };
@@ -8,4 +8,4 @@ void main() {
 		fwrite(data_list, sizeof(int), 5, p_file);
 		fclose(p_file);
 	}
-}
+}*/

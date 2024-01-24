@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 typedef unsigned short int US;
 
@@ -10,4 +10,4 @@ void main() {
 	char a = 'c';
 	printf("temp = %d\n", temp);
 	printf("%d", sizeof(a));
-}
+}*/

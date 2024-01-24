@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*#include<stdio.h>
 
 void main() {
 	int file_size = 0;
@@ -9,4 +9,4 @@ void main() {
 		printf("파일 크기 : %d\n", file_size);
 		fclose(p_file);
 	}
-}
+}*/
